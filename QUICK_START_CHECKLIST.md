@@ -16,7 +16,7 @@ cd /Users/hamzaamjad/.digital_twin/mercury-mcp-server
 # Type 'y' to confirm
 ```
 
-✅ Success = Package live at https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server
+✅ Success = Package live at https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server
 
 ### 2. Test Claude Desktop (30 minutes)
 ```bash
@@ -61,7 +61,7 @@ Run these commands to verify everything is working:
 
 ```bash
 # Check npm package
-npm view @hamzaamjad/mercury-mcp-server
+npm view @hamjad-pathpoint/mercury-mcp-server
 
 # Check GitHub
 open https://github.com/hamzaamjad/mercury-mcp-server

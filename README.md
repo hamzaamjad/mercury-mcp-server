@@ -1,6 +1,6 @@
 # Mercury MCP Server
 
-[![npm version](https://badge.fury.io/js/@hamzaamjad%2Fmercury-mcp-server.svg)](https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server)
+[![npm version](https://badge.fury.io/js/@hamjad-pathpoint%2Fmercury-mcp-server.svg)](https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://modelcontextprotocol.io)
 [![Mercury Powered](https://img.shields.io/badge/Mercury-10x%20Faster-orange)](https://inceptionlabs.ai)

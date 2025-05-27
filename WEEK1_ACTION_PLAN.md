@@ -24,11 +24,11 @@ cd /Users/hamzaamjad/.digital_twin/mercury-mcp-server
 ### 2. Test npm Installation
 ```bash
 # Test global install
-npm install -g @hamzaamjad/mercury-mcp-server
+npm install -g @hamjad-pathpoint/mercury-mcp-server
 
 # Test local install
 mkdir test-install && cd test-install
-npm install @hamzaamjad/mercury-mcp-server
+npm install @hamjad-pathpoint/mercury-mcp-server
 ```
 
 ### 3. Claude Desktop Integration

@@ -18,7 +18,7 @@ Currently, there are multiple MCP registries and directories. This guide walks t
 ### Mercury MCP Server
 Model Context Protocol server for Mercury diffusion-LLM - 10x faster code generation
 - GitHub: https://github.com/hamzaamjad/mercury-mcp-server
-- NPM: https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server
+- NPM: https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server
 ```
 
 ## 2. Cline MCP Marketplace
@@ -68,7 +68,7 @@ Tested with Cline using README.md - successfully auto-installs and configures.
 ## 4. NPM Registry (Already Done ✓)
 
 Once published to npm, your server is automatically discoverable:
-- https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server
+- https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server
 
 ## 5. Future Official Registry
 
@@ -98,7 +98,7 @@ Use this template when submitting to registries:
 
 **Installation**:
 ```bash
-npm install @hamzaamjad/mercury-mcp-server
+npm install @hamjad-pathpoint/mercury-mcp-server
 ```
 
 **Configuration** (Claude Desktop):
@@ -107,7 +107,7 @@ npm install @hamzaamjad/mercury-mcp-server
   "mcpServers": {
     "mercury": {
       "command": "node",
-      "args": ["node_modules/@hamzaamjad/mercury-mcp-server/dist/index.js"],
+      "args": ["node_modules/@hamjad-pathpoint/mercury-mcp-server/dist/index.js"],
       "env": {
         "MERCURY_API_KEY": "your-api-key-here"
       }
@@ -118,7 +118,7 @@ npm install @hamzaamjad/mercury-mcp-server
 
 **Links**:
 - GitHub: https://github.com/hamzaamjad/mercury-mcp-server
-- NPM: https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server
+- NPM: https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server
 - Documentation: https://github.com/hamzaamjad/mercury-mcp-server#readme
 
 **Categories**: AI, Code Generation, Development Tools, LLM, Diffusion Models

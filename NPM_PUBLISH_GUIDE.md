@@ -14,7 +14,7 @@ You'll be prompted for:
 
 ## Step 2: Verify Package Details
 
-Current package name: `@hamzaamjad/mercury-mcp-server`
+Current package name: `@hamjad-pathpoint/mercury-mcp-server`
 Current version: `0.1.0`
 
 ## Step 3: Publish
@@ -32,9 +32,9 @@ npm publish --access public
 ## After Publishing
 
 Your package will be available at:
-https://www.npmjs.com/package/@hamzaamjad/mercury-mcp-server
+https://www.npmjs.com/package/@hamjad-pathpoint/mercury-mcp-server
 
 Users can install with:
 ```bash
-npm install @hamzaamjad/mercury-mcp-server
+npm install @hamjad-pathpoint/mercury-mcp-server
 ```

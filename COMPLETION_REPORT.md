@@ -19,7 +19,7 @@
 
 ### 3. NPM Publication Preparation (DONE)
 - Updated package.json with:
-  - Scoped package name: @hamzaamjad/mercury-mcp-server
+  - Scoped package name: @hamjad-pathpoint/mercury-mcp-server
   - Repository and homepage URLs
   - Files to include in package
   - Node 18+ requirement
