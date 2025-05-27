@@ -1,5 +1,5 @@
 {
-  "name": "@hamzaamjad/mercury-mcp-server",
+  "name": "@hamjad-pathpoint/mercury-mcp-server",
   "version": "0.1.0",
   "description": "Model Context Protocol server for Mercury diffusion-LLM API integration - 10x faster code generation",
   "main": "dist/index.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/hamzaamjad/mercury-mcp-server.git"
+    "url": "git+https://github.com/hamzaamjad/mercury-mcp-server.git"
   },
   "homepage": "https://github.com/hamzaamjad/mercury-mcp-server#readme",
   "bugs": {
